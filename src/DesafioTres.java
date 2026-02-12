@@ -1,3 +1,5 @@
+// Desafio proposto no modulo 3 do curso "Java: criando a sua primeira aplicação".  Criar um programa que simule um jogo de adivinhação!
+
 import java.util.Random;
 import java.util.Scanner;
 
