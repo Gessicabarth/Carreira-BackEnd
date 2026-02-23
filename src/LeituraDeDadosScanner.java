@@ -1,3 +1,5 @@
+// Conteúdo abordado no curso
+
 import java.util.Scanner;
 
 public class LeituraDeDadosScanner {

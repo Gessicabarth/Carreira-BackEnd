@@ -1,4 +1,4 @@
-// Desafio proposto no modulo 3 do curso "Java: criando a sua primeira aplicação". Escrever um programa que converta uma temperatura em graus Celsius para Fahrenheit.
+// Desafio prático proposto no modulo 2 do curso "Java: criando a sua primeira aplicação". Escrever um programa que converta uma temperatura em graus Celsius para Fahrenheit.
 
 public class DesafioDois {
 
